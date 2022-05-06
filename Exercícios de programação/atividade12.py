@@ -1,0 +1,10 @@
+#exercício 12
+nome = input('Qual é o seu nome? ')
+endereço = input('Digite seu endereço com cidade, estado e CEP: ')
+tel = int(input('Qual é seu número de telefone?' ))
+prof = input('Qual é a sua profissão? ')
+print('Suas informações pessoais são:')
+print('Nome:',nome) 
+print('Endereço:',endereço)
+print('Telefone:', tel)
+print('Profissão',prof)
